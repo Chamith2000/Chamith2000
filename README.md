@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 I’m currently working on **hotel-deal-api**
+- 🔭 I’m currently working on **hotel-deal-api**,**Academic scheduler management system**,**Skill share application**
 
 - 🌱 I’m currently learning **Java, Spring boot and react**
 
